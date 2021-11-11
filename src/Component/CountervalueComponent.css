@@ -1,0 +1,13 @@
+.content2 {
+  zoom: 80%;
+  display: flex;
+  justify-content: center;
+  min-height: 12vh;
+  position: relative;
+  align-items: center;
+}
+
+#box2 {
+  text-align: center;
+  width: 30px;
+}

@@ -1,0 +1,51 @@
+.content1 {
+  zoom: 150%;
+  display: flex;
+  justify-content: center;
+  min-height: 4vh;
+  position: relative;
+  align-items: center;
+}
+.rightbox {
+  text-align: center;
+  width: 25px;
+  display: inline-block;
+  color: white;
+  background-color: brown;
+  border-color: brown;
+  border-radius: 0px 4px 4px 0px;
+  border-width: thin;
+  box-shadow: none;
+}
+
+.leftbox {
+  outline: none;
+  text-align: center;
+  width: 25px;
+  display: inline-block;
+  color: brown;
+  background-color: white;
+  border-color: brown;
+  border-radius: 4px 0px 0px 4px;
+  border-width: thin;
+  box-shadow: none;
+}
+.inputbox {
+  text-align: center;
+  width: 40px;
+  display: inline-block;
+  color: brown;
+  background-color: rgb(245, 208, 208);
+  border-color: brown;
+  border-width: thin;
+  box-shadow: none;
+}
+
+.loadercss {
+  zoom: 100%;
+  display: flex;
+  justify-content: center;
+  min-height: 4vh;
+  position: relative;
+  align-items: center;
+}
